@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+DOCUMENTALES | Esta BD permite flexibilidad necesaria para los metadatos, permitiendo estructura no uniforme y es ideal para sistemas de contenido.

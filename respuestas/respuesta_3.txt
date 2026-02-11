@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+COLUMNAR | Este tipo de BD es util ya qe permite una gran cantidad de analisis de datos de forma organizada por fecha y hora.

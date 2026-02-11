@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+GRAFOS | Esta BD permite el manejo complejo de rutas y caminos, y es ideal para la recomendación de rutas optimas.
